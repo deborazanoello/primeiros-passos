@@ -1,0 +1,17 @@
+h1{
+    color: yellow;
+    font-size: 18px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+p {color: black;
+    font-size: 14px;
+}
+img{width: 100px}
+body{background-color:brown}
+
+@media(min-width: 768px) {
+    h1{font-size: 34px;}
+    p{font-size: 24px}
+    img{width: 350px;}
+}
