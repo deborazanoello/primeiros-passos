@@ -8,8 +8,14 @@ p {color: black;
     font-size: 14px;
 }
 img{width: 100px}
-body{background-color:brown}
+body{background:brown;
+}
 
+.card {
+    width: 600 px
+    padding 10 px;
+    background: white;
+}
 @media(min-width: 768px) {
     h1{font-size: 34px;}
     p{font-size: 24px}
